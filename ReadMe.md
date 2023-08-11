@@ -11,7 +11,7 @@ Hello there! 👩‍💻 I'm Amritha Nandini, a second-year B.Tech student major
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## LeetCode Stats:
+## 🚀 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amrithanandini2003?theme=nord&font=Lato&ext=heatmap)
 
 ## 💻 Tech Stack:
