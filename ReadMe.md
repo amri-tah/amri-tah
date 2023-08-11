@@ -2,11 +2,9 @@
 
 Hello there! 👩‍💻 I'm Amritha Nandini, a second-year B.Tech student majoring in Artificial Intelligence at Amrita Vishwa Vidhyapeetham, Coimbatore.<br><br>
 
-🎓 Passionate about all things tech, I'm on a journey to explore the exciting realms of AI and Machine Learning.<br>
-🌱 Currently, I'm diving deep into the world of Python and honing my skills in data analysis to uncover insights from complex datasets. 🐍📊<br>
-💡 With a background in UI/UX design, I bring a creative perspective to the tech table. I believe that the fusion of aesthetics and functionality is key to crafting exceptional user experiences. ✨🎨<br>
-🤖 Fascinated by AI and ML, I'm excited to contribute to projects pushing the limits of intelligent systems.<br>
-🎨 Additionally, my interests extend to 3D design.🎬 Beyond the realms of code and data, I'm also an enthusiastic video editor. <br>
+🌱 Currently, I'm delving into Python for data analysis 🐍📊
+✨ Fascinated by AI/ML, I'm excited to contribute to projects pushing the limits of intelligent systems. 
+🎬 Also, I enjoy 3D design, UI/UX design, and video editing. 
 
 # 📊 GitHub Stats:
 
