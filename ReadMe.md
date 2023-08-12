@@ -6,11 +6,9 @@ Hello there! 👩‍💻 I'm Amritha Nandini, a second-year B.Tech student major
 🎬 Also, I enjoy 3D design, UI/UX design, and video editing. <br>
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: center;">
 ![](https://github-readme-stats.vercel.app/api?username=amri-tah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 ## 🚀 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amrithanandini2003?theme=nord&font=Lato&ext=heatmap)
