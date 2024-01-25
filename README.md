@@ -7,14 +7,18 @@ Hello there! 👩‍💻 I'm Amritha Nandini, a second-year B.Tech student major
 🎬 Also, I enjoy 3D design, UI/UX design, and video editing. <br>
 
 ## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=onedark&hide_border=true">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150">
+</div>
 
 ## 🚀 LeetCode Stats:
-
-![LeetCode Stats](https://leetcode.card.workers.dev/amrithanandini2003?theme=auto&font=source_code_pro&extension=null)
+<div align="center">
+  <img src = "https://leetcode.card.workers.dev/amrithanandini2003?theme=auto&font=source_code_pro&extension=null" height="180">
+</div>
 
 ## 💻 Tech Stack:
 
