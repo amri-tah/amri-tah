@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4Njk1OTcsIm5iZiI6MTcxNzg2OTI5NywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA4VDE3NTQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMjYyZWU0MjkyMWQ0NzUyM2Q2MWFhYWMyOWUxYWQyZjIwNTc3MjZkMzBkZGUxNTVhZTI4ZWYzZGY0NjNmODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7N3_IPUSZXikuvsrR2hEdXy0JhjClWMBcW-H1B2tBeM" alt="me lol" width="700px">
+  <img src="https://github.com/amri-tah/amri-tah/assets/111682039/2de3c99c-4228-4413-b5c4-c2abd9cf2ae4" alt="me lol" width="700px">
 </div>
 
 ## 💻 Tech Stack:
