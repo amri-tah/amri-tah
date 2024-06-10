@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=onedark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=omni&hide_border=true">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=amri-tah&theme=omni&show_icons=true&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
 
 ## 🌐 Socials:
